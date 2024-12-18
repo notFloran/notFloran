@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I’m Floran!
 
-<!--
-**notFloran/notFloran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **PHP developer** and open-source enthusiast.  
+As the co-founder of [Akollade](https://akollade.fr), a web agency based in Reims (France), I love building custom solutions, contributing to the tech community, and exploring new technologies. 🚀  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I enjoy doing:
+
+- 🧩 **PHP development** – From frameworks like **Symfony** and **Laravel** to tools like **Statamic**.  
+- 🌐 **Open Source** – Learning, sharing, and contributing to meaningful projects.  
+- 🖥 **DevOps** – Automating deployments with **Ansible** and improving workflows.  
+
+## 💬 Let’s talk tech!  
+
+When I’m not coding, you’ll find me:  
+
+- 🚀 **Building innovative projects** with my team at [Akollade](https://akollade.fr).  
+- 📚 **Engaging with the local tech community**, especially through [Sacrée Tech](https://sacreetech.fr).  
+
+## 🌐 More about me:
+
+- 🌍 My agency: [akollade.fr](https://akollade.fr)  
+- 💌 Get in touch: [floran.fr](https://floran.fr/)  
+
+Thanks for stopping by! Let’s build something amazing together. 🚀  
