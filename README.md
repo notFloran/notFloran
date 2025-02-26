@@ -1,8 +1,6 @@
 # 👋 Hi there, I’m Floran!
 
 I’m a passionate **PHP developer** and open-source enthusiast.  
-As the co-founder of [Akollade](https://akollade.fr), a web agency based in Reims (France), I love building custom solutions, contributing to the tech community, and exploring new technologies. 🚀  
-
 
 ## 🛠 What I enjoy doing:
 
@@ -19,7 +17,6 @@ When I’m not coding, you’ll find me:
 
 ## 🌐 More about me:
 
-- 🌍 My agency: [akollade.fr](https://akollade.fr)  
 - 💌 Get in touch: [floran.fr](https://floran.fr/)  
 
 Thanks for stopping by! Let’s build something amazing together. 🚀  
